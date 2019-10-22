@@ -1,0 +1,41 @@
+{
+  "cardResults": [
+    {
+      "cardHolderName": "Ever Solis",
+      "cardNumber": "5421143557869999",
+      "cardMonth": "8",
+      "cardYear": "2022",
+      "cardCvv": "123",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "Antonio Solis",
+      "cardNumber": "5412750012345678",
+      "cardMonth": "11",
+      "cardYear": "2025",
+      "cardCvv": "127",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "Kimberly Ardon",
+      "cardNumber": "4000123456789010",
+      "cardMonth": "11",
+      "cardYear": "2025",
+      "cardCvv": "127",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    },
+    {
+      "cardHolderName": "Rosalio Ardon",
+      "cardNumber": "4000123467848951",
+      "cardMonth": "11",
+      "cardYear": "2025",
+      "cardCvv": "127",
+      "cardColor": null,
+      "cardType": "CREDIT"
+    }
+
+  ]
+}
